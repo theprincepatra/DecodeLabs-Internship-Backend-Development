@@ -1,0 +1,20 @@
+{
+  "name": "rest-api-fundamentals",
+  "version": "1.0.0",
+  "description": "REST API Fundamentals using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api"
+  ],
+  "author": "Prince Patra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
