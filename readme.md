@@ -1,31 +1,38 @@
-# DecodeLabs Backend Development Projects
+# DecodeLabs Backend Development Internship
 
-This repository contains all the backend development projects completed during my internship at **DecodeLabs**.
+This repository contains the backend development projects completed during my internship at DecodeLabs.
 
-## Tech Stack
+## Technologies Used
 
 - Node.js
 - Express.js
-- JavaScript
-- REST API
+- MongoDB
+- Mongoose
+- REST APIs
+- Git & GitHub
 
 ## Projects
 
-### Project 1 - REST API Fundamentals
+### Project 01 - REST API Fundamentals
 
-Topics Covered
-
-- Express Server
-- Routing
-- GET API
-- POST API
-- PUT API
-- DELETE API
+- Local Express Server
+- GET & POST Routes
 - JSON Responses
+- REST API Basics
+
+### Project 02 - Database Integration (CRUD)
+
+- MongoDB Atlas
+- Mongoose
+- CRUD Operations
+- Duplicate Email Validation
 - Error Handling
 
-More projects will be added as the internship progresses.
+### Upcoming Projects
 
-## Author
+- Project 03
+- Project 04
 
-Prince Patra
+---
+
+Developed by **Prince Patra**
